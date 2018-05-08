@@ -1,0 +1,20 @@
+println("Hello")
+"dance"*5
+val st = "Hello"
+st.length()
+_______________________________
+
+val name= "Ivan"
+val greet = s"Hello ${name}"
+val greet = f"Hello ${name}"
+printf("A string %s , an integer %d , a float %f","Hi", 10, 12.33)
+_______________________________
+
+val st ="This is a long string"
+st.charAt(0)
+st.indexOf("a")
+st slice (0,4)
+_______________________________
+val st = "term1 term2 term3"
+st matches "term1 term2 term3"
+st contains "term1"
