@@ -1,0 +1,15 @@
+val evens = List(2,4,6,8,10)
+List(1,2.2,true)
+evens(0)
+evens(4)
+evens.head
+evens.tail
+___________________________________________
+
+var my_list = List(List(1,2,3),List(4,5,6))
+___________________________________________
+
+val evens = List(2,19,1,8,10)
+evens.sorted
+evens.min
+evens.max
